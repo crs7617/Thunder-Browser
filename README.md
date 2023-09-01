@@ -1,4 +1,4 @@
-# Python-project
+# Thunderbolt Browser
 
 PROJECT SYNOPSIS
 
