@@ -22,7 +22,7 @@ class Mainwindow(QMainWindow):
         self.addToolBar(navbar)
         self.setWindowIcon(QtGui.QIcon(QPixmap('Screenshot_2021-08-17_at_1.22.09_AM-removebg-preview.png')))
         self.initUI()
-        LogIN=QAction(QIcon('login3.png'),'logged in as Armaan',self)
+        LogIN=QAction(QIcon('login3.png'),'logged in as Sairam',self)
         toolbar = self.addToolBar('login')
         toolbar.setFixedHeight(36)
         toolbar.addAction(LogIN)
@@ -111,14 +111,14 @@ def logintodb(user, passw):
     if passw:
         db = mysql.connector.connect(host="localhost",
                                      user="root",
-                                     password="Armaan125",
+                                     password="crs7617",
                                      db="login")
         cursor = db.cursor()
 
 
     else:
         db = mysql.connector.connect(host="localhost",
-                                     user="root", password="Armaan125",
+                                     user="root", password="rrsm7617",
                                      db="login")
         cursor = db.cursor()
 
