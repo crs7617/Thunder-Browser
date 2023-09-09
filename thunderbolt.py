@@ -164,9 +164,6 @@ app.setWindowIcon(QIcon(path))
 window=Mainwindow()
 window.show()
 
-
-
-#app.exec()
 sys.exit(app.exec_())
 
 
