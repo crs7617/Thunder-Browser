@@ -16,18 +16,10 @@ Objective:
 
 
 Software requirements:
-•	Python 3.6 and above
-•	PyCharm preinstalled
-•	MySQL application pre-installed.
+•	Python 
 •	Tkinter
-•	Modules such as os, Mysql connector imported
-•	PyQt5 package installed in PyCharm.
+•	Modules such as os, Mysql connector(api) imported
 
-Limitations:
-•	Thunderbolt Might not be as modern and flashy browser like most browsers today.
-•	No Customizable options available it’s predefined and a fixed layout.
-•	Number of tabs that can be opened are limited.
-•	No option to use trackpads in laptops to slide to go back or forward like in some browsers.
 
 References:
 •	PyQt5 tutorial
