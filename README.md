@@ -32,3 +32,9 @@ References:
 sample on how the web browser looks once it runs along with account details of the users stored and accessed in mysql through the mysql.connector:
 
 ![Screenshot (843)](https://github.com/crs7617/Python-project/assets/115174268/7e03177b-d407-47be-9bdd-acd8a2c6d80a)
+
+![Screenshot (848)](https://github.com/crs7617/Python-project/assets/115174268/85e13517-1541-4211-b369-19da83909367)
+
+![Screenshot (852)](https://github.com/crs7617/Python-project/assets/115174268/1a514066-2ca7-4eef-a345-44b3efb8c365)
+
+**
