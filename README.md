@@ -26,3 +26,9 @@ References:
 •	Geeksforgeeks.com
 •	Btechgeeks.com
 •	Tutorialspoint.com
+
+
+
+sample on how the web browser looks once it runs along with account details of the users stored and accessed in mysql through the mysql.connector:
+
+![Screenshot (843)](https://github.com/crs7617/Python-project/assets/115174268/7e03177b-d407-47be-9bdd-acd8a2c6d80a)
