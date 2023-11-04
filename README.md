@@ -1,4 +1,4 @@
-# Thunderbolt Browser README
+# Thunderbolt Browser 
 
 ## Overview
 The Thunderbolt Browser is a simple web browser application built using Python and the PyQt5 library. This README provides an overview of the code and its functionality.
