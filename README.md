@@ -40,7 +40,7 @@ This code is provided under an open-source license. You are free to use, modify,
 The Thunderbolt Browser code is developed by the author, and it utilizes various open-source libraries.
 
 ## Contact Information
-For any questions or issues, you can contact the author at [your-email@example.com].
+For any questions or issues, you can contact the author at yandhi290918@gmail.com
 
 Enjoy browsing with Thunderbolt Browser!
 
