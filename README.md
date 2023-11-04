@@ -1,31 +1,48 @@
-# Thunderbolt Browser
+# Thunderbolt Browser README
 
-PROJECT SYNOPSIS
+## Overview
+The Thunderbolt Browser is a simple web browser application built using Python and the PyQt5 library. This README provides an overview of the code and its functionality.
 
-Title of the project:
-              Thunderbolt web browser
+## Installation
+Make sure you have Python and PyQt5 installed. If not, you can install PyQt5 using the following command:
+```
+pip install PyQt5
+```
 
-Reasons for choosing the topic:
-             Internet has become a very important part of our lives nowadays. The medium of accessing the internet is through Web browser. However, as we use these browsers in a day to day basis we come across these frustrating problems of slow loading time, unexpected crashing and strange pop-ups. These big browsers also take advantage of their huge user base by compromising on security, using cookies, monitoring your search patterns to recommend you products and services. Not only does this slow down your browser but also takes a toll on users’ privacy. This is why we decided to develop a web browser that’s simple, easy to use, secured and gives you fast loading web pages that just saves the users time without being wasted by cookies and other web monitoring tools. Thunderbolt browser has been developed on PyCharm.
+You'll also need to have a MySQL database set up with the required schema for the login functionality in the code.
 
+## Usage
+1. Run the code by executing the Python script.
+2. The Thunderbolt Browser window will open with Google as the default homepage.
+3. You can navigate to different web pages using the address bar, forward and backward buttons, and the reload button.
+4. The login functionality allows you to log in with a username and password. The login details are stored in a MySQL database.
+5. The application menu offers options for File, Edit, View, History, Bookmarks, Window, and Help. The 'History' menu shows some example history entries.
 
-Objective:
-•	Providing users an Intuitive and faster browsing experience.
-•	Providing a Secured network of browsing
-•	Providing an user friendly interface with options like Bookmarks, History, signing into accounts.
+## Files and Components
+- `Thunderbolt Browser` is the main application window that integrates the web browser and the GUI.
+- The `navigate_to_home` and `navigate_to_url` methods are responsible for navigating to the home page and a user-specified URL, respectively.
+- The login functionality is included in the code using a MySQL database.
+- The GUI components are created using PyQt5, including buttons, labels, and text fields.
+- The application menu is defined with various menu items.
 
+## Dependencies
+- PyQt5: Used for the graphical user interface.
+- PyQt5.QtWebEngineWidgets: Used for the web browser component.
+- PyQt5.QtGui: Used for icon handling.
+- PyQt5.QtCore: Provides core functionality.
+- PyQt5.QtWidgets: Used for various GUI widgets.
+- MySQL Connector: Used for database connectivity.
 
-Software requirements:
-•	Python 
-•	Tkinter
-•	Modules such as os, Mysql connector(api) imported
+## License
+This code is provided under an open-source license. You are free to use, modify, and distribute it as needed.
 
+## Credits
+The Thunderbolt Browser code is developed by the author, and it utilizes various open-source libraries.
 
-References:
-•	PyQt5 tutorial
-•	Geeksforgeeks.com
-•	Btechgeeks.com
-•	Tutorialspoint.com
+## Contact Information
+For any questions or issues, you can contact the author at [your-email@example.com].
+
+Enjoy browsing with Thunderbolt Browser!
 
 
 
